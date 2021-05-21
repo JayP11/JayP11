@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JayP11
 - 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning Java Script
-- 📫 How to reach me mailto : jayle9866@gmail.com
+- 📫 Contact : jayle9866@gmail.com
 
 <!---
 JayP11/JayP11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
