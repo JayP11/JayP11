@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JayP11
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning Java Script
+-🌱 I’m currently learning Solidity
 - 📫 Contact : jayle9866@gmail.com
 
 <!---
