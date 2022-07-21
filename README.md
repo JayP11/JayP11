@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JayP11
--🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Solidity
 - 📫 Contact : jayle9866@gmail.com
 
 <!---
