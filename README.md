@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JayP11
+- 👋 Hi, I’m Jay Patel
 - 🌱 I’m currently learning Solidity
 - 📫 Contact : jayle9866@gmail.com
 
