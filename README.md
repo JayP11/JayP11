@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jay Patel
-- 🌱 I’m currently learning Solidity
+- 🌱 Currently learning Move for building on the Aptos and Sui blockchains.
 - 📫 Contact : jayle9866@gmail.com
 
 <!---
