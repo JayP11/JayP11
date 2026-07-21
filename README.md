@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jay Patel
-- With 2.5 years of experience in software engineering and over 1.5 years in smart contract development, I’ve built a strong foundation in smart contract architecture, Solidity, and EVM-based protocols through self-directed learning and hands-on projects. I have knowledge of cryptographic primitives (hashing, signatures, Merkle trees, ZKPs), distributed systems, performance optimization, and low-level debugging. I also bring an understanding of token economics, governance modules, and validator/incentive systems.
+- With 3 years of experience in software engineering and over 2 years in smart contract development, I’ve built a strong foundation in smart contract architecture, Solidity, and EVM-based protocols through self-directed learning and hands-on projects. I have knowledge of cryptographic primitives (hashing, signatures, Merkle trees), distributed systems, performance optimization, and low-level debugging. I also bring an understanding of token economics, governance modules, and validator/incentive systems.
 - 📫 Contact : jayle9866@gmail.com
 
 <!---
